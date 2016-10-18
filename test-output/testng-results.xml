@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14628" started-at="2016-10-18T10:55:33Z" finished-at="2016-10-18T10:55:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14628" started-at="2016-10-18T10:55:33Z" finished-at="2016-10-18T10:55:47Z">
+      <class name="testScripts.TestScript">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testScripts.TestScript@39c0f4a]" name="beforeSuite" is-config="true" duration-ms="3005" started-at="2016-10-18T10:55:30Z" finished-at="2016-10-18T10:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:testScripts.TestScript@39c0f4a]" name="tc_001" duration-ms="14620" started-at="2016-10-18T10:55:33Z" description="Login &gt;&gt;	Login with invalid credentials" finished-at="2016-10-18T10:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testScripts.TestScript@39c0f4a]" name="afterSuite" is-config="true" duration-ms="5288" started-at="2016-10-18T10:55:47Z" finished-at="2016-10-18T10:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testScripts.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
